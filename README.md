@@ -3,9 +3,9 @@
   
  Hey there ！
  
- I’m @Wolfgang89.a developer.
+ I’m a developer.
  
- working on iOS&front-end.
+ working on iOS&front-end&Go.
  
  
  
