@@ -5,7 +5,7 @@
  
  I’m a developer.
  
- working on iOS&Front-End&Go.
+ working on iOS&Front-End&Flutter.
  
  
  
